@@ -2,7 +2,7 @@
 
 Welcome to Mergington High School's IT team! You've joined at a critical time. The school has been using the same COBOL-based accounting system since the early 1990s to manage student fees, cafeteria accounts, and school supplies purchases. The original programmer retired years ago, and the current IT staff struggles to maintain the system whenever changes are needed. There is a desire to update the application to a more modern progamming languate and Node.js seems to fit this requirement.
 
-<img width="60%" height="60%" alt="Cobol to Node.js" src="../images/cobol-to-nodejs.png" />
+<img width="60%" height="60%" alt="Cobol to Node.js" src="https://github.com/JMG3000/skills-modernize-your-legacy-code-with-github-copilot/blob/main/.github/images/cobol-to-nodejs.png?raw=true" />
 
 ### 📖 Theory: Educational Legacy Systems Modernization
 
@@ -53,14 +53,14 @@ To get started, we will set up a GitHub Codespace with the necessary tools and e
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Cobol` extensions are installed and enabled.
 
-   <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://github.com/JMG3000/skills-modernize-your-legacy-code-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="345" alt="cobol extension for VS Code" src="../images/cobol-extension-vscode.png" />
+   <img width="345" alt="cobol extension for VS Code" src="https://github.com/JMG3000/skills-modernize-your-legacy-code-with-github-copilot/blob/main/.github/images/cobol-extension-vscode.png?raw=true" />
 
 
 1. At the top of VS Code, locate and click the **Copilot icon** to open a Copilot Chat panel.
 
-   <img width="150" alt="Copilot chat icon in VS Code" src="../images/copilot-chat-icon.png" />
+   <img width="150" alt="Copilot chat icon in VS Code" src="https://github.com/JMG3000/skills-modernize-your-legacy-code-with-github-copilot/blob/main/.github/images/copilot-chat-icon.png?raw=true" />
 
 1. If this is your first time using GitHub Copilot, you will need to accept the usage terms to continue.
 
